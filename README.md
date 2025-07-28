@@ -2,7 +2,7 @@
 
 Hello. I'm an MTech Computer Science student at NIT Warangal, and this is my **Interactive Market Basket Analysis Dashboard**—a project I built to dive deep into grocery store transaction data and uncover hidden purchasing patterns.  
 
-**Live Demo:** https://projectdisastertweet.streamlit.app
+**Live Demo:** https://marketbaskett.streamlit.app
 
 ### Project Overview
 
