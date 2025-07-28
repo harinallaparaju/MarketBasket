@@ -2,6 +2,8 @@
 
 Hello. I'm an MTech Computer Science student at NIT Warangal, and this is my **Interactive Market Basket Analysis Dashboard**—a project I built to dive deep into grocery store transaction data and uncover hidden purchasing patterns.  
 
+**Live Demo:** https://projectdisastertweet.streamlit.app
+
 ### Project Overview
 
 This dashboard uses Market Basket Analysis to reveal customer purchasing behaviors, helping businesses optimize marketing, product placement, and cross-selling strategies. I built it with **Streamlit** to make it interactive and accessible, and it includes performance comparisons between two classic algorithms: **Apriori** and **FP-Growth**.
